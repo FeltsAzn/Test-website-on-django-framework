@@ -1,0 +1,4 @@
+/.idea
+/venv
+/.*
+/trash_func.py
